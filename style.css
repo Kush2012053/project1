@@ -1,0 +1,311 @@
+/*Menu bar*/
+#div1{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: lightblue;
+    padding: 10px 0px;
+    overflow: auto;
+}
+#div11{
+    width: 38%;
+    padding-top: 10px;
+    padding-left: 2%;
+    color: darkblue;
+    float: left;
+}
+#div21{
+    width: 60%;
+    float: left;
+}
+#ul11{
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+    list-style-type: none;
+}
+.li11{
+    width: 16.66%;
+    text-align: center;
+    float: left;
+}
+.a11{
+    width: 100%;
+    padding: 10px 0px;
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+.a11:hover{
+    background-color: darkblue;
+    border-radius: 10px;
+    color: white;
+}
+/*Prevention From Corona Virus*/
+#div2{
+    background-image: url('Corona Virus.jpg');
+    background-size: 100% 100%;
+    height: 600px;
+    padding-top: 58px;
+    text-align: center;
+}
+#h112{
+    padding-top: 40px;
+    margin: 0px;
+    color: white;
+}
+#h212{
+    padding: 30px 0px 20px;
+    margin: 0px;
+    color: white;
+}
+#a12{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+#a12:hover{
+    background-color: darkblue;
+    color: white;
+}
+/*HOW TO PREVENT VIRUS*/
+#div3{
+    background-color: lightblue;
+    padding: 98px 60px 40px 60px;
+    text-align: center;
+}
+#h213{
+    margin: 0px;
+    color: darkblue;
+}
+.div13{
+    padding-top: 20px;
+    overflow: auto;
+}
+.div23{
+    width: 33.33%;
+    float: left;
+}
+.div33{
+    font-size: 0px;
+}
+.h413{
+    padding: 10px 0px;
+    margin: 0px;
+    color: darkblue;
+}
+.p13{
+    margin: 0px;
+    color: gray;
+}
+/*Symptoms*/
+#div4{
+    background-color: skyblue;
+    padding: 118px 0px 50px;
+}
+#div44{
+    width: 58%;
+    padding-right: 2%;
+    text-align: right;
+    font-size: 28px;
+    float: left;
+}
+#h114{
+    margin: 0px;
+    color: blue;
+}
+#h124{
+    margin: 0px;
+    color: darkblue;
+}
+#h134{
+    margin: 0px;
+    color: red;
+}
+.div14{
+    overflow: auto;
+}
+.div24{
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+.div34{
+    font-size: 0px;
+}
+.img14{
+    border-radius: 50%;
+}
+.h314{
+    padding: 10px 0px;
+    margin: 0px;
+    color: red;
+}
+/*Precautions*/
+#div5{
+    padding: 98px 60px 40px 60px;
+}
+#h115{
+    padding-bottom: 40px;
+    margin: 0px;
+    color: darkblue;
+    text-align: center;
+}
+#div15{
+    overflow: auto;
+}
+#div25{
+    border: 1px solid gray;
+    width: 46%;
+    float: left;
+}
+#h215{
+    background-color: darkblue;
+    border-bottom: 1px solid gray;
+    padding: 12px 0px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
+#div65{
+    border: 1px solid gray;
+    width: 46%;
+    float: right;
+}
+#h225{
+    background-color: red;
+    border-bottom: 1px solid gray;
+    padding: 12px 0px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
+.div35{
+    padding: 20px 0px;
+    overflow: auto;
+}
+.div45{
+    width: 24%;
+    padding: 0% 2% 0% 6%;
+    font-size: 0px;
+    float: left;
+}
+.div55{
+    width: 60%;
+    padding: 0% 6% 0% 2%;
+    float: left;
+}
+.h315{
+    padding-bottom: 12px;
+    margin: 0px;
+    color: darkblue;
+}
+.p15{
+    margin: 0px;
+    color: gray;
+}
+/*Doctor*/
+#div6{
+    background-color: lightblue;
+    padding: 98px 60px 40px 60px;
+    color: darkblue;
+    text-align: center;
+}
+#h116{
+    padding-bottom: 40px;
+    margin: 0px;
+}
+#div16{
+    overflow: auto;
+}
+#div56{
+    background-color: white;
+    width: 24%;
+    padding: 0% 2%;
+    margin: 0% 8%;
+    float: left;
+}
+.div26{
+    background-color: white;
+    width: 24%;
+    padding: 0% 2%;
+    float: left;
+}
+.div36{
+    padding: 10px 0px;
+    font-size: 0px;
+}
+.img16{
+    border-radius: 50%;
+}
+.h316{
+    padding-bottom: 10px;
+    margin: 0px;
+}
+.hr16{
+    margin: 0px;
+}
+.div46{
+    padding: 10px 0px;
+}
+/*Spread*/
+#div7{
+    padding: 98px 60px 40px 60px;
+}
+#h117{
+    padding-bottom: 40px;
+    margin: 0px;
+    text-align: center;
+}
+#b17{
+    color: red;
+}
+#div17{
+    font-size: 0px;
+}
+/*Page footer*/
+#div8{
+    background-color: darkblue;
+    color: white;
+}
+#div18{
+    padding: 40px 20px;
+    overflow: auto;
+}
+#p18{
+    padding-top: 10px;
+    margin: 0px;
+}
+#hr18{
+    margin: 0px;
+}
+#p28{
+    padding: 10px 0px;
+    margin: 0px;
+    text-align: center;
+}
+.div28{
+    width: 21%;
+    padding-right: 4%;
+    float: left;
+}
+.h218{
+    padding-bottom: 40px;
+    margin: 0px;
+}
+.ul18{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+.li18{
+    padding: 10px 0px;
+}
+.li18:hover{
+    text-decoration: underline;
+}
